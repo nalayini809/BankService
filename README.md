@@ -1,2 +1,3 @@
 This is a simple Java OOPS-based bank service application that demonstrates core object-oriented concepts like encapsulation and abstraction. It performs basic banking operations such as checking account balance and processing transactions. The project follows a modular structure using separate classes and packages for better code organization.
+
 <img width="616" height="142" alt="Screenshot 2026-02-11 113703" src="https://github.com/user-attachments/assets/72e0ce74-065b-4885-b561-50c2ed344abe" />
